@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SocialsSync-Bridge/SocialsSync-Bridge App/Appsettings.json
+/SocialsSync-Bridge/SocialsSync-Bridge App/obj
+/SocialsSync-Bridge/SocialsSync-Bridge App/bin/Debug/net8.0
+/SocialsSync-Bridge/.vs
+/SocialsSync-Bridge/.cr/personal/FavoritesList
